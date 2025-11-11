@@ -108,8 +108,6 @@ Seul cet utilisateur peut ajouter, modifier ou supprimer un produit.
 - Formulaire avec validation :
   - Email obligatoire
   - Message obligatoire et ≤ 300 caractères
-- Message de confirmation : *"Demande de contact envoyée avec succès"*
-
 ---
 
 ## 🧱 Configuration CORS
